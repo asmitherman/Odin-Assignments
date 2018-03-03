@@ -1,3 +1,6 @@
+#Fundamentals Part 2
+[Return to README](README.md)
+
 ### What are the seven data types of javascript?
 Boolean, Null, Number, Undefined, String, Symbol, Object  
 ### Which data type is NOT primitive?

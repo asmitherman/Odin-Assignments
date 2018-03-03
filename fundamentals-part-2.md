@@ -1,4 +1,4 @@
-#Fundamentals Part 2
+# Fundamentals Part 2
 [Return to README](README.md)
 
 ### What are the seven data types of javascript?
